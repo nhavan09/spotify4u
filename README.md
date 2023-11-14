@@ -1,4 +1,4 @@
-# Spotify4U: Where you can find fun facts about your Spotify Account (at the moment it's only your top artist)
+# spotify4u: Where you can find fun facts about your Spotify Account (at the moment it's only your top artist)
 
 ## How to navigate
 Log in to your Spotify account, and then you'll see your top artist!
